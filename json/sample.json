@@ -1,0 +1,11 @@
+{
+"tasks" :
+[
+{
+"TaskCode":"FND_MANAGE_VALUE_SETS",
+"BusinessObjectCode": "FND_APP_FLEX_VALUE_SET",
+"AttributeName": "ValueSetCode",
+"AttributeValue": "US_ELEMENT_UNION_LIST##SMCR_CertificationFunctions"
+}
+]
+}
